@@ -1,0 +1,16 @@
+.But {
+    background-color: burlywood;
+}
+
+input {
+    padding: 10px 0;
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+}
+body {
+    background-color: wheat;
+}
